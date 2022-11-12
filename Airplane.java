@@ -1,14 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// Part 1 
-// Written by: Mehrdod Ilhompur 40078633 and David R Cronin 28840024
-// -----------------------------------------------------
- package airp;
-/**
- * 
- * @author Mehrdod
- *
- */
 public class Airplane extends FlyingObjects {
 		
 		//  Declaring instance variables for Airplane
