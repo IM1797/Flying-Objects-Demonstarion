@@ -1,13 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// Part 2 
-// Written by: Mehrdod Ilhompur 40078633 and David R Cronin 28840024
-// -----------------------------------------------------
-package Unmanned;
-/**
- * 
- * @author Mehrdod
- */
 import airp.Airplane;
 import airp.FlyingObjects;
 
