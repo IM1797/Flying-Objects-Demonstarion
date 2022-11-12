@@ -1,13 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// Part 1 
-// Written by: Mehrdod Ilhompur 40078633 and David R Cronin 28840024
-// -----------------------------------------------------
-package drone;
-/**
- * 
- * @author Mehrdod
- */
 import Unmanned.UAV;
 
 public class MAV extends UAV{
