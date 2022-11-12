@@ -1,12 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// Part 1
-// Written by: Mehrdod Ilhompur 40078633 and David R Cronin 28840024
-// -----------------------------------------------------
-package helicop;
-/**
- * @author Mehrdod 
- */
 import airp.Airplane;
 
 public class Helicopter extends Airplane {
