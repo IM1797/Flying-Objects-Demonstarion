@@ -1,16 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// Part 1 
-// Written by: Mehrdod Ilhompur 40078633 and David R Cronin 28840024
-// -----------------------------------------------------
-package multi;
-/**
- * 
- * 
- * 
- * @author Mehrdod
- * 
- */
 import helicop.Helicopter;
 
 public class Multirotor extends Helicopter {
